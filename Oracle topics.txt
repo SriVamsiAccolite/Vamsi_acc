@@ -1,0 +1,34 @@
+Oracle Architecture
+Memory Configuration Architecture (SGA+PGA)
+DB Installation
+Backup Types
+Refresh Activities (Datapump)/RMAN
+Tablespace Management
+User Management
+Standby DB Creations
+Configuring Data guard
+Dataguard modes
+Upgradations & Downgrading DB
+Migrations from On-premises to on-premises & On-premises to Cloud
+Performance Tuning (Analysing AWR, ADDM,ASH, Explain Plan, Sqltrpt, Tuning Advisor &etc)
+Real Time issues
+
+If you are ok with above mentioned topics we can go through below topics as well.
+
+Goldengate:
+-------------
+Configuration and troubleshooting
+
+RAC Configuration and trouble shooting
+
+AWS Migration and configuring/Create Instances and Engine Upgrades in RDS and EC2.
+
+
+
+
+
+
+
+
+
+
